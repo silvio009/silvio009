@@ -2,7 +2,7 @@
 - olá, sou o silvio⚡!
 
 
--📚Cursando Análise e Desenvolvimento de Sistemas na FIAP - - 1° ano
+-📚Cursando Análise e Desenvolvimento de Sistemas na FIAP - 1° ano
 
 
 -🏢 unidade - Paulista 
