@@ -1,14 +1,14 @@
-###  💻 silvio junior 💻
-- olá, sou o silvio⚡!
+###  💻 Silvio Junior 💻
+- Olá, Sou o Silvio⚡!
 
 
 -📚Cursando Análise e Desenvolvimento de Sistemas na FIAP - 1° ano
 
 
--🏢 unidade - Paulista 
+-🏢 Unidade - Paulista 
 
 
--🌙 Turno - noturno
+-🌙 Turno - Noturno
 
 
 
