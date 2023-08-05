@@ -11,7 +11,7 @@
 -🌙 Turno - Noturno
 
 
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvio009&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true"/>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvio009&show_icons=true&theme=highcontrast)
  
 <div style="display: inline_block"><br>
