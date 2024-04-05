@@ -20,7 +20,7 @@
 
 - Front-end
 
- [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+ [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 - Database
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
