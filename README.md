@@ -12,6 +12,8 @@
 
 -👨‍💻 Hello, I'm Silvio, a 19-year-old Full Stack Programmer passionate about technological innovation. Proficient in Java, JavaScript, and PL/SQL, I bring interfaces to life and specialize in building solid databases. Dedicated to data analysis and eager to explore Data Science, I'm always seeking stimulating challenges to apply my skills creatively. Excited to contribute my experience to exciting projects and collaborate with dedicated teams for a promising technological future.
 
+-Tools
+
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,azure,idea,eclipse,vscode,postman,docker,replit)](https://skillicons.dev)
 
 - Back-end
@@ -29,8 +31,7 @@
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvio009&show_icons=true&theme=highcontrast)
- 
-<img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvio009&layout=compact&langs_count=7&theme=highcontrast&include_all_commits=true"/>
+<img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvio009&layout=compact&langs_count=7&theme=highcontrast&include_all_commits=true"/>
 
 
 ##
