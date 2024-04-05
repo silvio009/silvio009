@@ -30,7 +30,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvio009&show_icons=true&theme=highcontrast)
  
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvio009&layout=compact&langs_count=7&theme=highcontrast&include_all_commits=true"/>
+<img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvio009&layout=compact&langs_count=7&theme=highcontrast&include_all_commits=true"/>
 
 
 ##
@@ -41,6 +41,5 @@
    <a href = "mailto:silviojr04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/silvio-luiz-aranha-junior-669b7a270/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoyANWxXkSduMboJFznhnow%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/silvio009/silvio009/blob/output/github-contribution-grid-snake.svg)
  </div>
  
