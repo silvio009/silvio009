@@ -30,9 +30,9 @@ https://portfolio-silviojr-cc1sgo732-silviojrs-projects.vercel.app
  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 - Database
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvio009&show_icons=true&theme=highcontrast)
