@@ -29,8 +29,8 @@
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
-- portfolio 💼
-<a href="https://portfolio-silviojr-cc1sgo732-silviojrs-projects.vercel.app" target="_blank"><img src="https://URL_DO_ICONE" alt="Portfólio" width="40" height="40"/></a>
+- Portfolio 
+<a href="https://portfolio-silviojr-cc1sgo732-silviojrs-projects.vercel.app" target="_blank"><img src="💼" alt="Portfólio" width="40" height="40"/></a>
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvio009&show_icons=true&theme=highcontrast)
