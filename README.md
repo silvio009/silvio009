@@ -50,4 +50,6 @@
     <a href="https://api.whatsapp.com/send/?phone=%2B5511942390707&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
  </div>
+
+ ![snake gif](https://github.com/silvio009/silvio009/blob/output/github-snake-dark.svg)
  
