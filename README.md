@@ -2,7 +2,7 @@
 - Olá, Sou o Silvio⚡!
 
 
--📚Cursando Análise e Desenvolvimento de Sistemas na FIAP - 2° ano
+-📚Formado em Análise e Desenvolvimento de Sistemas na FIAP 
 
 
 -🏢 Unidade - Paulista 
