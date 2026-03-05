@@ -26,13 +26,9 @@
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=java,js,ts,py,nodejs,prisma,spring,cs)](https://skillicons.dev)
 
-- Front-end
-
- [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
 - Database
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-
 
 
 
